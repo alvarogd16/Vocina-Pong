@@ -8,7 +8,9 @@ Inicialmente está pensado para usarlo en un entorno online sin la necesidad de 
 OpenProcessing por ser cómodo y sencillo.
 * [OpenProcessing](https://www.openprocessing.org/sketch/create) 
 
-Solo hay que copiar el código en él y darle al botón de run.
+Solo hay que copiar el código (juego.js) en él y darle al botón de run.
+
+También está el archivo html por si lo prefieres ejecutar así.
 
 ## Herramientas para el curso 🛠️
 
