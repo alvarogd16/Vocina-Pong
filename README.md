@@ -2,6 +2,8 @@
 
 _Juego del pong para el curso online de introducción a la programación en Processing con la libreria p5js_
 
+![Gif mostrando una partida del juego](docs/pong.gif)
+
 ## Como ejecutar 🚀
 
 Inicialmente está pensado para usarlo en un entorno online sin la necesidad de descargar ningún archivo. Se ha elegido 
